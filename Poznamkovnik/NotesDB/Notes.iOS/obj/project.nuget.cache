@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3YpBQzxLEdf1qiTvsPmpA8PU4Ve7QxXCkMIFSZmd+nHjlYg4kNiZq7tmNnE54xsMzhHZyDg5TTYtuVoUVa7fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kubah\\source\\repos\\NotesDB\\Notes.iOS\\Notes.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubah\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\kubah\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\kubah\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\kubah\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\kubah\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
